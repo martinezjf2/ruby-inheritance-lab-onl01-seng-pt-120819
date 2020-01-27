@@ -10,5 +10,3 @@ class User
   end
 
 end
-
-tracymorgan = User.new("Tracy", "Morgan")
